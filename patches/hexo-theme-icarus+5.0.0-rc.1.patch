@@ -1,0 +1,15 @@
+diff --git a/node_modules/hexo-theme-icarus/include/style/base.styl b/node_modules/hexo-theme-icarus/include/style/base.styl
+index 6c3bbb9..31b46c7 100644
+--- a/node_modules/hexo-theme-icarus/include/style/base.styl
++++ b/node_modules/hexo-theme-icarus/include/style/base.styl
+@@ -6,8 +6,8 @@ bulma-stylus-root = '../../../../node_modules/bulma-stylus/stylus'
+ $body-size ?= 14px
+ $body-background-color ?= #f7f7f7
+ 
+-$family-sans-serif ?= Ubuntu, Roboto, 'Open Sans', 'Microsoft YaHei', sans-serif
+-$family-code ?= 'Source Code Pro', monospace, 'Microsoft YaHei'
++$family-sans-serif ?= Noto, Hiragino Sans, Helvetica, Arial, sans-serif
++$family-code ?= 'Source Code Pro', monospace
+ 
+ $size-7 ?= .85rem
+ $size-small ?= .75rem
