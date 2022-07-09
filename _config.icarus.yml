@@ -299,14 +299,13 @@ widgets:
   #     # Feedburner ID
   #     feedburner_id: ''
   # Google AdSense unit configurations
-  # -
-  #     # Where should the widget be placed, left sidebar or right sidebar
-  #     position: left
-  #     type: adsense
-  #     # AdSense client ID
-  #     client_id: ''
-  #     # AdSense AD unit ID
-  #     slot_id: ''
+  - # Where should the widget be placed, left sidebar or right sidebar
+    position: left
+    type: adsense
+    # AdSense client ID
+    client_id: "ca-pub-9633336718581523"
+    # AdSense AD unit ID
+    slot_id: "5066575294"
   # Follow.it email subscription widget configurations
   # -
   #     # Where should the widget be placed, left sidebar or right sidebar
